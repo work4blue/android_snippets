@@ -15,7 +15,8 @@ Android 代码段库
    
    2.4 点击Import 将下载文件snippets.xml导入到当前。
    
-   最终效果
+   ! [最终效果](http://ww3.sinaimg.cn/bmiddle/9e2e5d14jw1e6l68yrra0j20l8071wff.jpg "snippets")
+   
       
    
    2.5 使用时，双击任何条目即可把代码填入当前光标
@@ -25,6 +26,8 @@ Android 代码段库
 ### 3.欢迎大家投稿
    可以发邮件 work4blue@sina.com 或发微博  http://weibo.com/work4blue 
     我将在代码注释里注明提交者。 
+    
+    贡献较多者，将在本文注名感谢
    
    
 
