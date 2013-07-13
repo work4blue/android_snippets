@@ -15,7 +15,7 @@ Android 代码段库
    
    2.4 点击Import 将下载文件snippets.xml导入到当前。
    
-   ! [最终效果](http://ww3.sinaimg.cn/bmiddle/9e2e5d14jw1e6l68yrra0j20l8071wff.jpg "snippets")
+   ![最终效果] (http://ww3.sinaimg.cn/bmiddle/9e2e5d14jw1e6l68yrra0j20l8071wff.jpg "snippets")
    
       
    
